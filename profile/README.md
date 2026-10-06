@@ -12,7 +12,8 @@ sans prélèvement d'eau douce.
 ## Outils ouverts
 
 - Ligne de commande : `pip install denv-r-cli`, commande `denv-r`.
-- Provider Terraform : `source = "console.denv-r.com/denvr/denvr"`, versions signées, code dans
+- Provider Terraform : `source = "denv-r/denvr"` sur le [registre HashiCorp](https://registry.terraform.io/providers/DENV-R/denvr),
+  ou `source = "console.denv-r.com/denvr/denvr"` depuis notre propre registre. Versions signées, code dans
   [terraform-provider-denvr](https://github.com/DENV-R/terraform-provider-denvr).
 - API REST : documentée dans la console, à parité complète avec l'interface.
 

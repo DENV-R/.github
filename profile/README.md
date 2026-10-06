@@ -1,37 +1,23 @@
-DENV-R : Solutions IT Durables# DENV-R : L'IT Durable et Optimisée
+# DENV-R
 
-## À propos de DENV-R
+Cloud souverain, hébergé en France, piloté depuis une console pensée pour tout le monde :
+le DSI, le développeur, et celui qui n'y connaît rien.
 
-DENV-R est une entreprise spécialisée dans l'offre de solutions IT durables et optimisées. Nous aidons nos clients à atteindre leurs objectifs de durabilité tout en optimisant leurs ressources IT. Notre approche combine innovation technologique et engagement environnemental.
+La console DENV-R cartographie votre système d'information, pilote vos espaces de stockage,
+vos clés d'accès et vos machines, et déploie vos applications, sur notre infrastructure ou sur la vôtre.
 
-## Nos Solutions Durables
+Une partie de notre infrastructure tourne sur un data center flottant, refroidi par l'eau du fleuve,
+sans prélèvement d'eau douce.
 
-Nous proposons une gamme complète de solutions conçues pour minimiser l'impact environnemental de votre infrastructure IT :
+## Outils ouverts
 
-*   **Réseau hybride écoresponsable :** Data centers flottants et infrastructures partagées pour une efficacité énergétique maximale.
-*   **Matériel reconditionné :** Prolongation de la durée de vie des équipements et réduction des déchets électroniques.
-*   **Solutions modulaires et évolutives :** Adaptées à vos besoins spécifiques et alignées avec vos initiatives RSE.
+- Ligne de commande : `pip install denv-r-cli`, commande `denv-r`.
+- Provider Terraform : `source = "console.denv-r.com/denvr/denvr"`, versions signées, code dans
+  [terraform-provider-denvr](https://github.com/DENV-R/terraform-provider-denvr).
+- API REST : documentée dans la console, à parité complète avec l'interface.
 
-## Nos Engagements
+## Contact
 
-*   **Responsabilité Environnementale :** Nous nous engageons à réduire l'empreinte carbone de l'IT.
-*   **Innovation :** Nous explorons constamment de nouvelles technologies pour des solutions plus durables.
-*   **Partenariat :** Nous travaillons en étroite collaboration avec nos clients pour atteindre leurs objectifs de développement durable.
-
-## Pourquoi Choisir DENV-R ?
-
-*   **Expertise :** Une équipe de spécialistes de l'IT durable.
-*   **Solutions Personnalisées :** Des offres adaptées à vos besoins spécifiques.
-*   **Impact Mesurable :** Des résultats concrets en matière de durabilité.
-
-## Contactez-Nous
-
-Pour en savoir plus sur nos solutions et comment nous pouvons vous aider à atteindre vos objectifs de durabilité, visitez notre site web : [https://www.denv-r.com/](https://www.denv-r.com/)
-
-Vous pouvez également nous contacter directement via le formulaire de contact sur notre site web.
-
-## Rejoignez-Nous
-
-Nous sommes toujours à la recherche de talents passionnés par l'IT durable. Consultez notre site web pour les offres d'emploi actuelles.
-
-Copyright (c) [2025] [DENV-R]
+- Site : [www.denv-r.com](https://www.denv-r.com)
+- Console : [console.denv-r.com](https://console.denv-r.com)
+- Support : support@denv-r.com
